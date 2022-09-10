@@ -1,0 +1,29 @@
+1662266222491	geckodriver	INFO	Listening on 127.0.0.1:57280
+1662266225561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ROSYPA~1\\AppData\\Local\\Temp\\rust_mozprofileH3JsOn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1662266230622	Marionette	INFO	Listening on port 57287
+1662266230955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/desktop.min.js?ver=4.4.4&time=1661881689, line 1: TypeError: c.browser is undefined
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4&time=1661881689, line 1: TypeError: e.browser is undefined
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4&time=1661881689, line 3: TypeError: e.browser is undefined
+1662266237548	Marionette	INFO	Stopped listening on port 57287
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
